@@ -1,0 +1,4 @@
+name: red-hat/sitepackage
+label: 'SitePackage'
+dependencies:
+  - bootstrap-package/full
